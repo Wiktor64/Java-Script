@@ -1,0 +1,1 @@
+document.write("Napisz program w JavaScript")
